@@ -6,6 +6,9 @@
 4. git submodule update
 5. ```./start.sh c```
 
+# Run example
+
+- ```./start.sh examples/fib.asm -t && ./start.sh out```
 
 # Architecture
 
