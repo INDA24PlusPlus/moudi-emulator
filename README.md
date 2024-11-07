@@ -1,7 +1,7 @@
 # Build
 
 1. git clone https://github.com/INDA24PlusPlus/moudi-emulator
-2. cd moudi-compiler
+2. cd moudi-emulator
 3. git submodule init
 4. git submodule update
 5. ```./start.sh c```
