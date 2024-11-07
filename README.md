@@ -1,6 +1,6 @@
 # Build
 
-1. git clone https://github.com/INDA24PlusPlus/moudi-compiler
+1. git clone https://github.com/INDA24PlusPlus/moudi-emulator
 2. cd moudi-compiler
 3. git submodule init
 4. git submodule update
